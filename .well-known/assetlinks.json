@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sudiamnaxyz_art.twa",
+        "sha256_cert_fingerprints": ["BF:61:E7:3B:F8:E0:70:82:37:A7:BB:CA:18:14:24:0D:E6:A3:08:59:59:5B:BF:82:BC:EC:A0:A2:65:67:0D:58"]
+      }
+    }]
